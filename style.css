@@ -1,0 +1,42 @@
+body {
+  background-image: url("img/background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+li{
+	color: red; 
+	font-size: 14px;
+}
+h1{ 
+	text-align: center;
+	font-size: 30px;
+	color: #db5757;
+}
+img{
+	margin: auto;
+	display: block;
+	border-radius: 250px;
+	border:5px solid #db5757;
+}
+h2{
+	text-align: center;
+	color: white;
+	font-size: 30px;
+}
+.heading {
+	font-family: 'Pacifico', cursive;
+	font-size: 40px;
+}
+.page-link {
+    text-align: center;
+    display: block;
+    margin: 20px auto;
+    width: 100px;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    background: #db5757;
+    padding: 5px;
+    border-radius: 10px;
+}
